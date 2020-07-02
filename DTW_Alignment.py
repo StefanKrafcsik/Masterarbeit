@@ -197,7 +197,7 @@ def play_audio_background(audio_file, audio_file2):
     return
 
 def analyze_one(audio_file):
-     """
+    """
     Play audio file in the background, accept a SIGINT or SIGTERM to stop
     """
     fast = False
