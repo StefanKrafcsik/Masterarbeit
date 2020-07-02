@@ -1,0 +1,12 @@
+[
+    {
+    "name": "Freedom",
+    "path": "FFT Alignment/Songs/default/Freedom.wav",
+    "mixin": true
+  },
+  {
+    "name": "ShatterMe",
+    "path": "FFT Alignment/Songs/default/Lindsey Stirling,Lzzy Hale - Shatter Me.mp3",
+    "mixin": false
+  }
+]

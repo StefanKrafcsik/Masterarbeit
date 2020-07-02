@@ -1,0 +1,12 @@
+[
+    {
+    "name": "Freedom",
+    "path": "DTW Alignment/Songs/default/Freedom.mp3",
+    "mixin": true
+  },
+  {
+    "name": "BlaBla",
+    "path": "DTW Alignment/Songs/default/D-Block & S-te-Fan -Bla Bla.mp3",
+    "mixin": false
+  }
+]
